@@ -1,0 +1,3 @@
+[workspace]
+members = ["quic_rfc9000"]
+resolver = "2"
